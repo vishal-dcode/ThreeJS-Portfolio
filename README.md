@@ -19,11 +19,7 @@ To run the portfolio on your local machine, follow these steps:
 
 ## Issues and Feedback 💬
 
-If you encounter any issues while using the PowerFit app, please report them by clicking on the "Report Issue" button. If you have any feedback or suggestions for improving the app, please feel free to reach out to us.
-
-## Support ❤️
-
-If you enjoy using CodeToolz, please give us a star on Github to show your support!
+If you encounter any issues while using the Website, please report them by clicking on the "Report Issue" button. If you have any feedback or suggestions for improving the app, please feel free to reach out to us.
 
 ## Credits 🙏
 
